@@ -1,12 +1,12 @@
 import './App.css';
 import Start from "./Components/Section1/Start";
-import Images from "./Components/Section2/Images";
+import Overviews from "./Components/Section2/Overviews";
 
 function App() {
   return (
       <div>
           <Start/>
-          <Images/>
+          <Overviews/>
       </div>
   );
 }

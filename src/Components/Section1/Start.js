@@ -1,6 +1,6 @@
 function Start() {
     return (
-        <section id="#sec-1">
+        <section className="start">
             <div className="row">
                 <div className="typing-demo">
                     PayBuddy, your app for logging owed money.
